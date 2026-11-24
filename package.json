@@ -1,0 +1,9 @@
+{
+  "name": "alnahda-school",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm ci --prefix backend",
+    "start": "npm start --prefix backend"
+  }
+}
